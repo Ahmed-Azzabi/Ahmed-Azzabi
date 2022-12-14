@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">Fullstack Developer</h3>
-<img align="center" alt="Coding" src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_pap19zg4ae1w3zg6go1_500.gif">
+<img align="middle" alt="Coding" src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_pap19zg4ae1w3zg6go1_500.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-azzabi" alt="ahmed-azzabi" /></a> </p>
 
